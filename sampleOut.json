@@ -1,0 +1,206 @@
+{
+  "status": "ok",
+  "totalResults": 6561,
+  "articles": [
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": null,
+      "title": "'Now is your time to be heard' - Holding tells cricket discrimination victims to come forward",
+      "description": "West Indies great Michael Holding urges individuals to 'share your story' of discrimination within cricket to a wide-ranging inquiry.",
+      "url": "https://www.bbc.co.uk/sport/cricket/59213148",
+      "urlToImage": "https://ichef.bbci.co.uk/live-experience/cps/624/cpsprodpb/E824/production/_121482495_michaelholden.jpg",
+      "publishedAt": "2021-11-09T00:01:50Z",
+      "content": "Azeem Rafiq played for Yorkshire between 2008-2014, 2016 and 2018 before making his allegations in 2020\r\nWest Indies great Michael Holding has urged individuals to \"share your story\" of discriminatio… [+1454 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "https://www.facebook.com/bbcnews",
+      "title": "T20 World Cup: The toxic trolling of India's cricket stars",
+      "description": "As online abuse becomes the main form of venting, many worry about the toxicity cricketers face on social media.",
+      "url": "https://www.bbc.co.uk/news/world-asia-india-59059493",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/10B4A/production/_121262486_gettyimages-1229852678-594x594.jpg",
+      "publishedAt": "2021-10-30T00:37:20Z",
+      "content": "By Zoya MateenBBC News, Delhi\r\nImage source, Getty Images\r\nImage caption, India's defeat against Pakistan in the T20 World Cup has sparked a wave of online abuse against cricketers\r\nWhen India's cric… [+6973 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "https://www.facebook.com/bbcnews",
+      "title": "Virat Kohli: India man arrested over rape threats to cricketer's daughter",
+      "description": "A man has been arrested over rape threats to the daughter of Indian cricket captain Virat Kohli.",
+      "url": "https://www.bbc.co.uk/news/world-asia-india-59238649",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/6A23/production/_121517172_gettyimages-1255359662-170667a.jpg",
+      "publishedAt": "2021-11-11T06:09:02Z",
+      "content": "Image source, Getty Images\r\nImage caption, Virat Kohli and his team were viciously trolled after their shock defeat in the T20 World Cup\r\nA man has been arrested for allegedly threatening to rape the… [+2410 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": null,
+      "title": "Yorkshire racism scandal as relevant to England squad as on-field feats - Morgan",
+      "description": "The Yorkshire County Cricket Club racism scandal is \"as serious and as relevant\" to England's squad as any of their feats on the field, says captain Eoin Morgan.",
+      "url": "https://www.bbc.co.uk/sport/cricket/59222810",
+      "urlToImage": "https://ichef.bbci.co.uk/live-experience/cps/624/cpsprodpb/09A5/production/_121496420_gettyimages-1350217659.jpg",
+      "publishedAt": "2021-11-09T14:35:17Z",
+      "content": "People have to think about what they can and can't say - Moeen Ali\r\nThe Yorkshire County Cricket Club racism scandal is \"as serious and as relevant\" to England's squad as any of their feats, says cap… [+3465 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": null,
+      "title": "England tour of West Indies confirmed for next January and March",
+      "description": "England will face West Indies in five Twenty20s and three Tests in the Caribbean in January and March next year.",
+      "url": "https://www.bbc.co.uk/sport/cricket/58958300",
+      "urlToImage": "https://ichef.bbci.co.uk/live-experience/cps/624/cpsprodpb/7334/production/_121129492_gettyimages-1257926961.jpg",
+      "publishedAt": "2021-10-18T16:18:10Z",
+      "content": "England won the last Test series against West Indies to claim the final Wisden Trophy\r\nEngland will face West Indies in five Twenty20s and three Tests in the Caribbean in January and March next year.… [+1854 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": null,
+      "title": "'I had concerns about marriage', admits Malala Yousafzai",
+      "description": "The Nobel laureate says she previously questioned marriage and the \"imbalance of power\".",
+      "url": "https://www.bbc.co.uk/news/av/world-asia-59286773",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/217F/production/_121557580_p0b48f8w.jpg",
+      "publishedAt": "2021-11-15T04:21:43Z",
+      "content": "Nobel Peace Prize winner Malala Yousafzai, who married her partner Asser Malik last week, has addressed the \"concerns\" about marriage she had previously voiced to British Vogue.\r\nAppearing on the BBC… [+522 chars]"
+    },
+    {
+      "source": { "id": "reuters", "name": "Reuters" },
+      "author": null,
+      "title": "Melbourne Cricket Ground to stage 2022 T20 World Cup final - Reuters",
+      "description": "The next Twenty20 World Cup final will be held under lights at the Melbourne Cricket Ground (MCG) on Nov. 13 next year, the International Cricket Council (ICC) said on Tuesday.",
+      "url": "https://www.reuters.com/lifestyle/sports/melbourne-cricket-ground-stage-2022-t20-world-cup-final-2021-11-16/",
+      "urlToImage": "https://www.reuters.com/resizer/TNmN5Cyh_kxkTVDX9slfEXWu9Mo=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/QE4AQISO5NNJFFXEEFOFVKBS7I.jpg",
+      "publishedAt": "2021-11-16T05:56:00Z",
+      "content": "Members of the crowd watch as Australia and New Zealand play their Cricket World Cup final match at the Melbourne Cricket Ground (MCG) March 29, 2015. REUTERS/David GraySYDNEY, Nov 16 (Reuters) - The… [+2040 chars]"
+    },
+    {
+      "source": { "id": "reuters", "name": "Reuters" },
+      "author": null,
+      "title": "Afghanistan seek members' support ahead of crucial ICC meeting - Reuters",
+      "description": "The Afghanistan Cricket Board (ACB) has requested the support of other full members of the International Cricket Council ahead of next month's crucial meeting where the game's future in the South Asian country is likely to be decided.",
+      "url": "https://www.reuters.com/lifestyle/sports/afghanistan-seek-members-support-ahead-crucial-icc-meeting-2021-10-18/",
+      "urlToImage": "https://www.reuters.com/resizer/ZGqbQ7O1IALltpj2Giu5XRqXpbs=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/RQ3B52TK6VP2FPSPRS2O5LOJYI.jpg",
+      "publishedAt": "2021-10-18T06:23:00Z",
+      "content": "The International Cricket Council (ICC) logo at the ICC headquarters in Dubai, October 31, 2010. REUTERS/Nikhil MonteiroNEW DELHI, Oct 18 (Reuters) - The Afghanistan Cricket Board (ACB) has requested… [+2310 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": null,
+      "title": "Former Yorkshire academy player alleges racist abuse from team-mates",
+      "description": "A former Yorkshire academy player has given BBC Sport a detailed account of experiencing alleged racism from team-mates at the club as a 14-year-old.",
+      "url": "https://www.bbc.co.uk/sport/cricket/59213299",
+      "urlToImage": "https://ichef.bbci.co.uk/live-experience/cps/624/cpsprodpb/EC54/production/_121500506_img-20211109-wa0010.jpg",
+      "publishedAt": "2021-11-09T19:55:45Z",
+      "content": "Racist comments were 'fairly regular' at Yorkshire, Tabassum Bhatti said\r\nAnother former Yorkshire academy player has given BBC Sport an account of experiencing alleged racism from team-mates at the … [+5697 chars]"
+    },
+    {
+      "source": { "id": "reuters", "name": "Reuters" },
+      "author": null,
+      "title": "Taliban officials celebrate cricket win but Kabul streets subdued - Reuters",
+      "description": "Taliban officials took to social media on Monday to congratulate the Afghan national cricket team for winning a match in the Twenty20 World Cup, but there was a muted response on the streets of Kabul where such wins were celebrated enthusiastically in the pas…",
+      "url": "https://www.reuters.com/world/asia-pacific/taliban-officials-celebrate-cricket-win-kabul-streets-subdued-2021-10-25/",
+      "urlToImage": "https://www.reuters.com/pf/resources/images/reuters/reuters-default.png?d=53",
+      "publishedAt": "2021-10-25T19:20:00Z",
+      "content": "KABUL, Oct 25 (Reuters) - Taliban officials took to social media on Monday to congratulate the Afghan national cricket team for winning a match in the Twenty20 World Cup, but there was a muted respon… [+2330 chars]"
+    },
+    {
+      "source": { "id": null, "name": "The Guardian" },
+      "author": "Mike Hytner",
+      "title": "Cricket Australia postpones Afghanistan Test over ‘uncertainty’ in Taliban-ruled nation",
+      "description": "<ul><li>First-ever Australia-Afghanistan Test was to be held in Hobart</li><li>Match postponed over concerns about women’s cricket under Taliban</li></ul>Cricket Australia has confirmed the postponement of this month’s scheduled one-off men’s Test against Afg…",
+      "url": "https://amp.theguardian.com/sport/2021/nov/05/cricket-australia-postpones-afghanistan-test-over-uncertainty-in-taliban-ruled-nation",
+      "urlToImage": "https://i.guim.co.uk/img/media/feced78be0bb0eff718da11afc4b5332b65c88a6/0_145_3162_1897/master/3162.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=5df343e396af41c3cb940acb04a5562e",
+      "publishedAt": "2021-11-05T06:04:12Z",
+      "content": "Cricket Australia has confirmed the postponement of this months scheduled one-off mens Test against Afghanistan in Hobart until the situation in the Taliban-ruled country becomes clearer.\r\nAustralias… [+2932 chars]"
+    },
+    {
+      "source": { "id": null, "name": "The Guardian" },
+      "author": "Tanya Aldred",
+      "title": "‘It is so normalised’: community in Yorkshire on cricket racism scandal",
+      "description": "Cricket-loving south Asian residents express little surprise but much resigned anger towards a club they see as unwelcomingThe Azeem Rafiq revelations have not come as a great surprise to Yorkshire men and women of south Asian backgrounds, many of whom interv…",
+      "url": "https://amp.theguardian.com/sport/2021/nov/10/racism-normalised-south-asian-community-yorkshire-on-cricket-ccc-scandal",
+      "urlToImage": "https://i.guim.co.uk/img/media/4b736a504e6e59f610547d8c51e55715a635f006/0_224_6720_4032/master/6720.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d019da5ca6a02f304bd50a9cfc5af294",
+      "publishedAt": "2021-11-10T08:00:31Z",
+      "content": "The Azeem Rafiq revelations have not come as a great surprise to Yorkshire men and women of south Asian backgrounds, many of whom interviewed by the Guardian believe they reflect the society in which… [+4887 chars]"
+    },
+    {
+      "source": { "id": null, "name": "The Guardian" },
+      "author": "Reuters",
+      "title": "De Kock misses T20 World Cup game as South Africa players told to take knee",
+      "description": "<ul><li>De Kock ‘made himself unavailable for personal reasons’</li><li>Cricket South Africa issued team directive earlier on Tuesday</li></ul>Quinton de Kock did not take part in South Africa’s Twenty20 World Cup match against West Indies, after the team wer…",
+      "url": "https://amp.theguardian.com/sport/2021/oct/26/cricket-quinton-de-kock-misses-t20-world-cup-game-south-africa-players-told-take-knee",
+      "urlToImage": "https://i.guim.co.uk/img/media/8a5ca6a908ba77ad305b7c4b52c3d8fd3f96fbd7/339_317_4342_2606/master/4342.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=3b20dcf29a68e4e45796067b6e589e3a",
+      "publishedAt": "2021-10-26T11:36:42Z",
+      "content": "Quinton de Kock did not take part in South Africas Twenty20 World Cup match against West Indies, after the team were directed to take a knee in their remaining matches in the tournament.\r\nThe South A… [+1814 chars]"
+    },
+    {
+      "source": { "id": null, "name": "The Guardian" },
+      "author": "Amrit Dhillon in New Delhi",
+      "title": "Indian police arrest seven for ‘celebrating’ Pakistan cricket win",
+      "description": "Young Muslims face charges including ‘promoting enmity’ after match at T20 World Cup in DubaiIndian police have arrested seven Muslim youths for allegedly celebrating Pakistan’s victory over India in a cricket match on Sunday.Uttar Pradesh’s chief minister Yo…",
+      "url": "https://amp.theguardian.com/world/2021/oct/28/indian-police-arrest-seven-for-celebrating-pakistan-cricket-win",
+      "urlToImage": "https://i.guim.co.uk/img/media/b6de2f5b88392f98e5cedea3c513c19ed299b18e/0_34_5167_3101/master/5167.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c9cc353c10fe575eb3bc454da7b84f38",
+      "publishedAt": "2021-10-28T10:25:23Z",
+      "content": "Indian police have arrested seven Muslim youths for allegedly celebrating Pakistans victory over India in a cricket match on Sunday.\r\nUttar Pradeshs chief minister Yogi Adityanath, a senior Bharatiya… [+2420 chars]"
+    },
+    {
+      "source": { "id": "reuters", "name": "Reuters" },
+      "author": null,
+      "title": "Stokes added to England's Ashes squad - Reuters",
+      "description": "All-rounder Ben Stokes has been added to England's squad for the Ashes tour of Australia, England's cricket board said on Monday.",
+      "url": "https://www.reuters.com/world/uk/stokes-added-englands-ashes-squad-2021-10-25/",
+      "urlToImage": "https://www.reuters.com/resizer/s9WCAMTE5ltOX-bNaLu-cL0hBFM=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/JPCR2IOZGRKR5BHDOISAZH7LYU.jpg",
+      "publishedAt": "2021-10-25T08:18:00Z",
+      "content": "Cricket - Third One Day International - England v Pakistan - Edgbaston Stadium, Birmingham, Britain - July 13, 2021 England's Ben Stokes Action Images via Reuters/Ed SykesOct 25 (Reuters) - All-round… [+791 chars]"
+    },
+    {
+      "source": { "id": "reuters", "name": "Reuters" },
+      "author": null,
+      "title": "Tasmania looks to swipe Ashes test from Perth - Reuters",
+      "description": "The Australian state of Tasmania will submit a pitch to the country's cricket board on Wednesday to have the fifth Ashes test relocated to Hobart from Perth.",
+      "url": "https://www.reuters.com/world/asia-pacific/tasmania-looks-swipe-ashes-test-perth-2021-11-10/",
+      "urlToImage": "https://www.reuters.com/pf/resources/images/reuters/reuters-default.png?d=56",
+      "publishedAt": "2021-11-10T03:46:00Z",
+      "content": "Nov 10 (Reuters) - The Australian state of Tasmania will submit a pitch to the country's cricket board on Wednesday to have the fifth Ashes test relocated to Hobart from Perth.\r\nThe Ashes finale is s… [+1737 chars]"
+    },
+    {
+      "source": { "id": "reuters", "name": "Reuters" },
+      "author": null,
+      "title": "Mitchell replaces Conway in New Zealand squad for India tests - Reuters",
+      "description": "Batsman Daryl Mitchell will replace injured Devon Conway in New Zealand's squad for the test series against India later this month, New Zealand Cricket said on Sunday.",
+      "url": "https://www.reuters.com/world/india/mitchell-replaces-conway-new-zealand-squad-india-tests-2021-11-14/",
+      "urlToImage": "https://www.reuters.com/resizer/kPgmFgbjDqlx3K6Vs6D5C-CBSlk=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/55VQ4R6U7NOLVCR5B3CK434BLE.jpg",
+      "publishedAt": "2021-11-14T09:16:00Z",
+      "content": "Cricket - ICC Men's T20 World Cup - Super 12 - Semi-Final - England v New Zealand - Sheikh Zayed Cricket Stadium, Abu Dhabi, United Arab Emirates - November 10, 2021 New Zealand's Daryl Mitchell hits… [+967 chars]"
+    },
+    {
+      "source": { "id": "reuters", "name": "Reuters" },
+      "author": null,
+      "title": "Australian Hall of Fame all-rounder Davidson dies aged 92 - Reuters",
+      "description": "Alan Davidson, the first player to score 100 runs and take 10 wickets in a single test match, has died at the age of 92, Cricket Australia announced on Saturday.",
+      "url": "https://www.reuters.com/lifestyle/sports/australian-hall-fame-all-rounder-davidson-dies-aged-92-2021-10-30/",
+      "urlToImage": "https://www.reuters.com/resizer/dikD82k4y_MZWcy0OLLRI6Gbgbc=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/HR5H62NUORJJJLUEK5ISZVC2WE.jpg",
+      "publishedAt": "2021-10-30T06:10:00Z",
+      "content": "Australia's test cricket captain Michael Clarke (L) listens to former Australian cricketer Alan Davidson during a practice session at the Sydney Cricket Ground January 2, 2013. REUTERS/Tim Wimborne/F… [+1804 chars]"
+    },
+    {
+      "source": { "id": "reuters", "name": "Reuters" },
+      "author": null,
+      "title": "Former skipper Dravid appointed Indian men's cricket team head coach - Reuters",
+      "description": "Former India captain Rahul Dravid has been appointed the head coach of the men's national team to succeed Ravi Shastri, the country's cricket board (BCCI) said in a statement on Wednesday.",
+      "url": "https://www.reuters.com/world/india/former-skipper-dravid-appointed-indian-mens-cricket-team-head-coach-2021-11-03/",
+      "urlToImage": "https://www.reuters.com/resizer/6jMPFwe8d0NzO1DzaDeN6XDm4DA=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/N45K7PXF4JMN3BLCLXLQUPCXEI.jpg",
+      "publishedAt": "2021-11-03T15:44:00Z",
+      "content": "Former Indian cricket captain Rahul Dravid (R) speaks to Malaysian U-16 cricketers during a cricket clinic in Kuala Lumpur June 27, 2012. REUTERS/Bazuki Muhammad (MALAYSIA - Tags: SPORT CRICKET EDUCA… [+1557 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": null,
+      "title": "T20 World Cup: Pakistan hammer India by 10 wickets to claim famous win",
+      "description": "Pakistan hammer India by 10 wickets to claim a famous win over their great rivals at the Men's T20 World Cup in Dubai.",
+      "url": "https://www.bbc.co.uk/sport/cricket/59030529",
+      "urlToImage": "https://ichef.bbci.co.uk/live-experience/cps/624/cpsprodpb/13FC4/production/_121206818_babar_getty.jpg",
+      "publishedAt": "2021-10-24T17:35:58Z",
+      "content": "<table>\r\n<tr><td>ICC Men's T20 World Cup, Dubai International Cricket Stadium, Dubai</td></tr><tr><td>India 151-7 (20 overs): Kohli 57 (49), Pant 39; Shaheen 3-31</td></tr><tr><td>Pakistan 152-0 (17.… [+3956 chars]"
+    }
+  ]
+}
